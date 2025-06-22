@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/EazybytsStock/static/css/main.1a49bbc5.css",
+    "main.js": "/EazybytsStock/static/js/main.1917ef53.js",
+    "static/js/453.9539dc34.chunk.js": "/EazybytsStock/static/js/453.9539dc34.chunk.js",
+    "index.html": "/EazybytsStock/index.html",
+    "main.1a49bbc5.css.map": "/EazybytsStock/static/css/main.1a49bbc5.css.map",
+    "main.1917ef53.js.map": "/EazybytsStock/static/js/main.1917ef53.js.map",
+    "453.9539dc34.chunk.js.map": "/EazybytsStock/static/js/453.9539dc34.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.1a49bbc5.css",
+    "static/js/main.1917ef53.js"
+  ]
+}
