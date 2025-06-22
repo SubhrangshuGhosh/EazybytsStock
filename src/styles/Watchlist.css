@@ -1,0 +1,50 @@
+.watchlist-container {
+  padding: 20px 40px;
+}
+
+.watchlist-searchbar {
+  display: flex;
+  gap: 10px;
+  margin-bottom: 20px;
+}
+
+.watchlist-searchbar input {
+  flex: 1;
+  padding: 8px;
+  font-size: 14px;
+}
+
+.watchlist-searchbar button {
+  padding: 8px 16px;
+  font-size: 14px;
+  cursor: pointer;
+}
+
+.watchlist-items {
+  display: flex;
+  flex-direction: column;
+  gap: 20px;
+}
+
+.stock-card {
+  position: relative;
+  border: 1px solid #ddd;
+  border-radius: 8px;
+  padding: 10px;
+  background: #fff;
+}
+
+.tv-widget {
+  height: 100px;
+}
+
+.remove-btn {
+  position: absolute;
+  top: 10px;
+  right: 10px;
+  background: #ccc;
+  border: none;
+  padding: 4px 8px;
+  border-radius: 4px;
+  cursor: default;
+}

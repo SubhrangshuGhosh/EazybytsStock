@@ -1,0 +1,10 @@
+.news-page {
+  padding: 1rem 2rem; /* 1rem top-bottom, 2rem left-right */
+  height: calc(100vh - 60px); /* adjust based on top navbar height */
+  overflow-y: auto;
+}
+
+.news-widget-box {
+  width: 100%;
+  height: 100%;
+}

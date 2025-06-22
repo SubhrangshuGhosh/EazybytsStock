@@ -1,0 +1,33 @@
+.top-navbar {
+  background: linear-gradient(180deg, #3c3c3d, #300af2);
+  color: white;
+  padding: 0.75rem 1rem;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  box-shadow: -3px 6px 5px 5px rgb(0 0 0 / 55%);
+}
+
+.top-left {
+  display: flex;
+  align-items: center;
+  gap: 0.5rem;
+}
+
+.logo-text {
+  font-size: 1.25rem;
+  font-weight: bold;
+}
+
+.top-right {
+  display: flex;
+  align-items: center;
+  gap: 1rem;
+}
+
+.search-bar {
+  padding: 0.4rem 0.6rem;
+  border-radius: 4px;
+  border: none;
+  outline: none;
+}

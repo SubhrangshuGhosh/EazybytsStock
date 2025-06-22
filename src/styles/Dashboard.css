@@ -1,0 +1,63 @@
+.dashboard-container {
+  padding: 1rem;
+}
+
+.market-box {
+  height: 40vh;
+  background-color: #fff;
+  border-radius: 12px;
+  box-shadow: 0 4px 12px rgba(0, 0, 0, 0.08);
+  padding: 1rem;
+  overflow: hidden;
+  margin-left: 1rem;
+  margin-right: 1rem;
+}
+
+.widget-box {
+  height: 100%;
+}
+
+.dashboard-lower {
+  display: flex;
+  gap: 1rem; /* Same space as left margin */
+  margin: 1rem; /* Equal left/right spacing */
+}
+
+.box {
+  background-color: #fff;
+  border-radius: 12px;
+  box-shadow: 0 4px 12px rgba(0, 0, 0, 0.08);
+  padding: 1rem;
+  min-height: 200px;
+}
+
+.box-a {
+  flex: 3; /* Increased from 2 or 1.5 to make it wider */
+  height: 60vh;
+  padding: 1rem;
+  background-color: white;
+  box-shadow: 0 2px 6px rgba(0, 0, 0, 0.1);
+  border-radius: 12px;
+}
+
+
+.box-b {
+  flex: 1;
+  height: 60vh;
+  padding: 1rem;
+  background-color: white;
+  box-shadow: 0 2px 6px rgba(0, 0, 0, 0.1);
+  border-radius: 12px;
+  overflow: hidden;
+}
+
+.widget-box {
+  width: 100%;
+  height: 100%;
+}
+
+.dashboard-lower {
+  display: flex;
+  padding: 1rem;
+  gap: 1rem;
+}

@@ -1,0 +1,11 @@
+.main-content {
+  flex: 1;
+  padding: 1rem;
+  background-color: #2683e0;
+}
+
+.main-content-area {
+  flex: 1;
+  padding: 1rem;
+  background-color: #f9fafb; /* light background */
+}
